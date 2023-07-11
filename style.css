@@ -1,0 +1,246 @@
+.banner {
+    display: flex;
+    align-items: center;
+    margin: 100 100px;
+    background-color: rgb(228, 216, 218);
+    padding-left: 20%;
+}
+
+.banner-title {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 60px;
+    font-weight: 900;
+
+}
+
+.btn-first {
+
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+    height: 50px;
+    width: 150px;
+    border-radius: 5px;
+    background-color: rgba(221, 60, 87, 0.89);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.featured-flowers-section {
+    padding: 40px 0;
+    text-align: center;
+    margin-top: 50px;
+    margin: 100px 100px;
+
+    background-color: rgb(240, 212, 212);
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.content-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.left-content {
+    text-align: left;
+    width: 60%;
+}
+
+.section-heading {
+    font-size: 28px;
+}
+
+.section-paragraph {
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+.sign-up-button {
+    background-color: red;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.right-content {
+    width: 40%;
+}
+
+.right-content img {
+    width: 100%;
+    height: auto;
+}
+
+.highlight {
+    color: crimson;
+}
+
+
+
+
+
+
+
+
+
+
+
+.instagram-section {
+    background-color: #F2F2F2;
+    padding: 40px 0;
+    text-align: center;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.instagram-title {
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+
+.instagram-paragraph {
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+.instagram-gallery {
+    display: flex;
+    justify-content: space-between;
+}
+
+.instagram-gallery img {
+    width: 23%;
+}
+
+.instagram-gallery img:first-child,
+.instagram-gallery img:last-child {
+    margin: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.deals {
+    background-image: url("one.png");
+    background-size: cover;
+    background-position: center;
+    padding: 50px;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+fortm {
+    display: flex;
+    justify-content: center;
+
+}
+
+input {
+    padding: 10px;
+    margin-right: 10px;
+    width: 300px;
+}
+
+button {
+
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+    height: 50px;
+    width: 150px;
+    border-radius: 5px;
+    background-color: rgba(221, 60, 87, 0.89);
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.footer-heading {
+
+    font-size: 24px;
+}
+
+.adjust {
+
+
+    color: pink;
+}
+
+.footer-paragraph {
+    margin-bottom: 20px;
+}
+
+.watermark {
+    font-size: 14px;
+    opacity: 0.5;
+}
